@@ -13,9 +13,3 @@ Primeiro projeto criado com HTML e CSS no curso da Alura
 
 * Flex-box
 
-## Feito por:
-
-### Joana Santos
-
-### Linkedin: https://www.linkedin.com/school/aluracursos/
-
